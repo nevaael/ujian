@@ -336,7 +336,7 @@
         </div>
       </section>
       <!-- /.content -->
-    </div>
+    </div> 
     <!-- /.content-wrapper -->
     <div class="modal fade" id="modal-jurusan">
       <div class="modal-dialog">
